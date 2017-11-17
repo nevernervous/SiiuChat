@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "826954528200",
+    "firebase_url": "https://siiu-8d986.firebaseio.com",
+    "project_id": "siiu-8d986",
+    "storage_bucket": "siiu-8d986.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:826954528200:android:2834e39ffd157ef5",
+        "android_client_info": {
+          "package_name": "com.nevernervous.siiuchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "826954528200-h0c7qmcjaog3d3dvf6c6gs9tpt8og207.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nevernervous.siiuchat",
+            "certificate_hash": "5fd6d9e884dcdc004727539c71c349470dfd4742"
+          }
+        },
+        {
+          "client_id": "826954528200-0mc9artg9s87qedagl4tq7t7ftr9nnln.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGjvTD98F0OSLsWvldhxDZh7DQrdQ8vME"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "826954528200-0mc9artg9s87qedagl4tq7t7ftr9nnln.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
